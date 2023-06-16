@@ -1,1 +1,1 @@
-rootProject.name = "SimpleJumpPads"
+rootProject.name = "XymbStressTester"
